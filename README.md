@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sachin Adi</h1>
 <h3 align="center">A passionate Cloud and DevOps enthusiast from India</h3>
 
